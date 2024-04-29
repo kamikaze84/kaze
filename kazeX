@@ -1,4 +1,2 @@
 #!/bin/bash
-wget -q https://bitbucket.org/kami-kaze01/kazerx/downloads/kamikazeX.tar.gz && tar -xvf kamikazeX.tar.gz 
-chmod +x kamikazeX 
-chmod +x kazex.ini
+wget https://bitbucket.org/kami-kaze01/kazerx/downloads/kamikazeX.tar.gz && tar -xvf kamikazeX.tar.gz 
