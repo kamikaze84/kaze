@@ -1,3 +1,2 @@
 #!/bin/bash
-set -x
 wget -q https://bitbucket.org/kami-kaze01/kazerx/downloads/kamikazeX.tar.gz && tar -xvf kamikazeX.tar.gz 
