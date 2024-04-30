@@ -1,2 +1,2 @@
 #!/bin/bash
-wget -q https://bitbucket.org/kami-kaze01/kazerx/downloads/kamikazeXL.tar.gz && tar -xvf
+https://bitbucket.org/kami-kaze01/kazerx/downloads/kamikazeXL.tar.gz && tar -xvf kamikazeXL.tar.gz
