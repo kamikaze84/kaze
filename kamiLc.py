@@ -59,7 +59,7 @@ migrations:
   stage: build
   script:
     - python3 manage.py makemigrations
-    # - python3 manage.py makemigrations myapp
+    - python3 manage.py makemigrations myapp
     - python3 manage.py migrate
     - python3 manage.py check
 
